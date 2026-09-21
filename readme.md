@@ -1,0 +1,1 @@
+Hands-on TryHackMe cybersecurity labs covering SOC operations, threat detection, threat hunting, Windows & Active Directory, web security, cloud security, malware analysis, DFIR, DevSecOps, and offensive security.
