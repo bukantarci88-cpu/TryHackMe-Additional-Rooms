@@ -17,8 +17,6 @@ Windows distinguishes hardware access by two distinct modes: **user** and **k
 
 Below is a visual representation of how a user application can use API calls to modify kernel components.
 
-![Diagram showing the user mode at the top and kernel mode at the bottom, divided by the switching point](https://cdn-images.tryhackme.com/user-uploads/5e73cca6ec4fcf1309f2df86/room-content/3099761e193a0fa0eab05432b07e0537.png)
-
 When looking at how languages interact with the Win32 API, this process can become further warped; the application will go through the language runtime before going through the API.
 
 **Answer the questions below**
