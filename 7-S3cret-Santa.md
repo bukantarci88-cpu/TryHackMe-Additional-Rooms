@@ -295,8 +295,6 @@ We have successfully infiltrated Sir Carrotbane's S3 bucket and exfiltrated some
 > What are the contents of the cloud_password.txt file?
 > 
 
-Correct Answer
-
 THM{more_like_sir_cloudbane}
 
 Run the query below in Linux terminal in order to get secret message: I downloaded a specific file (cloud_password.txt) from an S3 bucket (easter-secrets-123145).
